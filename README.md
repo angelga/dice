@@ -1,6 +1,6 @@
 # dice
 
-Clone and run to generate a strong pass phrase for your password database. This uses the dice method from words from local file (sourced from somewhere online). To learn more about the dice method [read this](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/).
+Clone and run to generate a strong pass phrase for your password database. This uses the dice method from words from local file (sourced [from here](http://world.std.com/~reinhold/diceware.wordlist.asc)). To learn more about the dice method [read this](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/) or [this](http://world.std.com/~reinhold/diceware.html).
 
 Clone and run:
 ```bash
